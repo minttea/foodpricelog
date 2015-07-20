@@ -1,0 +1,14 @@
+{
+  "name": "food-price-log",
+  "version": "0.1.0",
+  "description": "Track food prices where you shop",
+  "private": true,
+  "dependencies": {
+    "browserify": "^10.2.4",
+    "jquery": "^2.1.4",
+    "strictify": "^0.2.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.8.0"
+  }
+}
